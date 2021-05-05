@@ -14,6 +14,13 @@
   align-items: center;
   justify-content: center;
   font-size: 3rem;
+
+}
+
+.services,
+.products,
+.sign-up{
+  text-transform: uppercase;
 }
 
 .services {

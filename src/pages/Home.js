@@ -1,5 +1,6 @@
 import React from 'react';
 import Cards from '../components/Cards';
+import Footer from '../components/Footer';
 import HeoeSection from '../components/HeoeSection';
 
 function Home() {
@@ -7,6 +8,7 @@ function Home() {
     <>
       <HeoeSection/>
       <Cards/>
+      <Footer/>
     </>
   )
 }
